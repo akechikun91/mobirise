@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Daner Enginering Remake 2.8",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 124,
     "versionPublish": "4.6.6",
@@ -3892,7 +3892,7 @@
               }
             },
             ".mbr-section-title B": {
-              "color": "#232323"
+              "color": "#f7ed4a"
             }
           },
           "_name": "features18",
