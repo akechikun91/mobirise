@@ -3277,6 +3277,34 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-qMYs4RqHHL {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qMYriEu01I {
+  background: #ffffff;
+}
+.cid-qMYriEu01I .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qMYriEu01I .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qMYriEu01I figcaption {
+  position: relative;
+}
+.cid-qMYriEu01I figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qMYriEu01I .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qJXNxFQApS .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -4648,6 +4676,7 @@ body {
 }
 .cid-qMyOitY00A .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-qMyOitY00A .card {
   display: flex;
