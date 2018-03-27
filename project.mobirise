@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Daner Enginering Remake 3.2",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 164,
     "versionPublish": "4.6.6",
@@ -49,8 +49,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "EXAMPLE",
+        "title": "Daner Engineering",
+        "meta_descr": "Home of Daner Engineering",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -675,8 +675,8 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "",
-        "title": "Vision",
+        "meta_descr": "Vision by Daner Engineering",
+        "title": "Daner Engineering",
         "order": 4
       },
       "components": [
@@ -1153,8 +1153,8 @@
     },
     "page5.html": {
       "settings": {
-        "meta_descr": "Web Maker Description",
-        "title": "Contact Us",
+        "meta_descr": "Contact Us by Daner Engineering",
+        "title": "Daner Engineering",
         "order": 5
       },
       "components": [
@@ -1735,8 +1735,8 @@
     },
     "page4.html": {
       "settings": {
-        "meta_descr": "Web Site Creator Description",
-        "title": "About Us",
+        "meta_descr": "About us",
+        "title": "Daner Engineering",
         "order": 2
       },
       "components": [
@@ -2275,8 +2275,8 @@
     },
     "page7.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "Services",
+        "meta_descr": "Services by Daner Engineering",
+        "title": "Daner Engineering",
         "order": 3
       },
       "components": [
