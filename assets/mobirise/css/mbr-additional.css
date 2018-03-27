@@ -1866,7 +1866,7 @@ body {
 }
 .cid-qKdlY86KaL {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #2e2e2e;
 }
 .cid-qJXNxFQApS .navbar {
@@ -2285,7 +2285,7 @@ body {
 }
 .cid-qLLHNAirKS {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #2e2e2e;
 }
 .cid-qNacgDYbtn {
@@ -2303,9 +2303,9 @@ body {
   margin-bottom: 1rem;
 }
 .cid-qN7DWpwHJ0 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #efefef;
 }
 .cid-qN7DWpwHJ0 .title {
   margin-bottom: 2rem;
@@ -2359,6 +2359,11 @@ body {
   .cid-qMYriEu01I .image-block {
     width: 100% !important;
   }
+}
+.cid-qNt6TQqYk1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
 .cid-qJXNxFQApS .navbar {
   padding: .5rem 0;
@@ -2748,11 +2753,6 @@ body {
 .cid-qJXNxFQApS .nav-link:hover,
 .cid-qJXNxFQApS .dropdown-item:hover {
   color: #0f7699 !important;
-}
-.cid-qN7EIoIoWc {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
 }
 .cid-qJXNxFQApS .navbar {
   padding: .5rem 0;
@@ -3144,7 +3144,7 @@ body {
   color: #0f7699 !important;
 }
 .cid-qLQw6DfZj6 {
-  background-image: url("../../../assets/images/sunset-3231502-1920-1920x1271.jpg");
+  background-image: url("../../../assets/images/mbr.jpg");
 }
 .cid-qLQw6DfZj6 h1 {
   color: #616161;
@@ -3239,8 +3239,8 @@ body {
   width: 100%;
 }
 .cid-qNbIpx8mBu {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/pexels-photo-237837-2000x1500.jpg");
 }
 .cid-qLf1j1y7ZM .navbar {
@@ -3702,7 +3702,7 @@ body {
   color: #000000;
 }
 .cid-qNbIikzClB {
-  padding-top: 30px;
+  padding-top: 60px;
   padding-bottom: 15px;
   background-color: #f9f9f9;
 }
@@ -3774,7 +3774,7 @@ body {
   color: #232323;
 }
 .cid-qNbIiFzSpb {
-  padding-top: 30px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #f9f9f9;
 }
@@ -3848,6 +3848,6 @@ body {
 }
 .cid-qMywR8sjfM {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #2e2e2e;
 }
