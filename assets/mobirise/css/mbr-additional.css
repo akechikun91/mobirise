@@ -1378,7 +1378,7 @@ body {
 .cid-qLPYGgGsSo {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-qLPYGgGsSo .mbr-section-subtitle {
   color: #000000;
@@ -1825,7 +1825,7 @@ body {
 .cid-qLQ4etlMYx {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-qLQ4etlMYx .mbr-section-subtitle {
   color: #000000;
@@ -1834,16 +1834,16 @@ body {
   color: #000000;
 }
 .cid-qN7FpVcaOn {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/dirty-industry-stack-factory.jpg");
 }
 .cid-qN7FpVcaOn .title {
   margin-bottom: 2rem;
 }
 .cid-qN7FpVcaOn .mbr-section-subtitle {
-  color: #000000;
-  text-align: left;
+  color: #ffffff;
+  text-align: center;
 }
 .cid-qN7FpVcaOn a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1862,7 +1862,14 @@ body {
   text-align: center;
 }
 .cid-qN7FpVcaOn .mbr-section-subtitle DIV {
-  text-align: left;
+  text-align: center;
+  color: #ffffff;
+}
+.cid-qN7FpVcaOn B {
+  color: #ffffff;
+}
+.cid-qN7FpVcaOn LABEL {
+  color: #ffffff;
 }
 .cid-qKdlY86KaL {
   padding-top: 30px;
